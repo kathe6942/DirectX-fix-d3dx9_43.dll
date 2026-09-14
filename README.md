@@ -62,3 +62,7 @@ Then inpoutx64.sys probably wasn't the problem.
 Check the GPU driver, verify the game files, remove unstable overclocks, and look at the game's crash log. Anti-cheat software can also produce very similar symptoms.
 
 This project only targets the driver conflict described above.
+
+---
+
+**directx directx-fix directx-error windows windows 10 windows 11 game-fix gaming dxgi error dll dll-fix 0xc000007b d3dx9_43.dll KB5121003 inpoutx64.sys EXCEPTION_ACCESS_VIOLATION**
